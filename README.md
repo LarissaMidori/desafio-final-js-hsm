@@ -21,7 +21,7 @@ seguintes informações:
 - Update (atualizar)
 - Delete (deletar)
 
-##### Entregas Mínimas:
+#### Entregas Mínimas:
 
 - Código entregue no Github.
 - Função de criar curso.
@@ -30,7 +30,7 @@ seguintes informações:
 - Função de deletar um curso escolhido.
 - Função de listar todos os cursos.
 
-###### Tecnologias utilizadas:
+#### Tecnologias utilizadas:
 
 - javascript
 - readline-sync
